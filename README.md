@@ -1,27 +1,28 @@
-# Machine-Learning-Autumn
-Machine-Learning-Autumn Assement
+# Machine Learning Autumn Assessment
 
-This repo contains two main sections. Tasks & Project. 
-The tasks were outlined in the Assement document and the project description was alos included in the same document.
+This repository contains two main sections: **Tasks** and **Project**. The tasks and project descriptions are outlined in the Assessment document.
 
-Libraries used
-Pandas
-Numpy
-Matplotlib
-Seaborn
-Scikit-learn
+## Libraries Used
 
-Tasks
-Clearly outlined all tasks inside the notebook with clear comments & markdown to explain all work completed.
+- **Pandas**: For data manipulation and analysis.
+- **Numpy**: For numerical operations and array handling.
+- **Matplotlib**: For creating static visualizations.
+- **Seaborn**: For statistical data visualization.
+- **Scikit-learn**: For implementing machine learning algorithms.
 
-tasks included Downloading the abolone.csv file and adding to my repo. 
-Using read_csv() functio to load the data.
-Discussing the classification of each variable in the dataset based on a number of area's.
-displaying & explaing key summary statistics for each variable.
-displaying the most suitable plot(s) for each variable
+## Tasks
 
-Project
+The tasks are clearly outlined within the notebook with detailed comments and markdown explanations for each step completed. These tasks include:
 
-Analysis of the KNN algorithms on the abalone dataset. 
-Explanations & dconcept of various methods of classification algorithms.
-summary statistics & plots outlining the use of the KNN algorithm on the Abalone dataset.
+1. **Downloading the Dataset**: Obtained the `abalone.csv` file and added it to the repository.
+2. **Loading the Data**: Used the `read_csv()` function from Pandas to load the dataset.
+3. **Variable Classification**: Discussed the classification of each variable in the dataset based on several criteria.
+4. **Summary Statistics**: Displayed and explained key summary statistics for each variable.
+5. **Data Visualization**: Presented and explained the most suitable plots for each variable.
+
+## Project
+
+The project involves analyzing the K-Nearest Neighbors (KNN) algorithm on the Abalone dataset. This includes:
+
+1. **Classification Algorithms**: Explanation and concept of various classification algorithms.
+2. **KNN Algorithm Analysis**: Detailed summary statistics and plots illustrating the application of the KNN algorithm to the Abalone dataset.
